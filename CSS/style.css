@@ -1,5 +1,11 @@
-h1{
-    color:red;
-    color:brown;
+#test{
+    color:aqua; 
 }
  
+.test{
+    color :blue; 
+}
+
+*{
+    color:red;
+}
