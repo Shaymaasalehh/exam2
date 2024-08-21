@@ -1,11 +1,9 @@
-#test{
-    color:aqua; 
-}
- 
-.test{
-    color :blue; 
-}
-
-*{
-    color:red;
+h1{
+   border-color:aqua;
+   border-style :double;
+  border-width :10px;
+   width: 200px;
+   height :60px;
+   padding :10px 100px;
+   margin: 10px;
 }
