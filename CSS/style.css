@@ -1,7 +1,11 @@
-p,h1,span{
-   background-color: pink;
-}
 div{
+   width:200px;
+   text-align: center;
+   background-color: blueviolet;
+}
+span{
    width: 200px;
- 
+   display: block;
+   background-color: aqua;
+   text-align: center;
 }
