@@ -1,4 +1,7 @@
-.height{
+p,h1,span{
    background-color: pink;
-   min-height: 100px;
+}
+div{
+   width: 200px;
+ 
 }
