@@ -1,11 +1,10 @@
-div{
-   width:200px;
-   text-align: center;
-   background-color: blueviolet;
+p{
+   text-align: right;
+   direction :rtl;
 }
-span{
-   width: 200px;
-   display: block;
-   background-color: aqua;
-   text-align: center;
+
+
+h1{
+   text-align: left;
+   direction: rtl;
 }
