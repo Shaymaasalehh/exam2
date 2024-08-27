@@ -1,10 +1,4 @@
 p{
-   text-align: right;
-   direction :rtl;
+   text-transform: capitalize;
 }
 
-
-h1{
-   text-align: left;
-   direction: rtl;
-}
