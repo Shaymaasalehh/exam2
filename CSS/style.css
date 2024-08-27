@@ -1,13 +1,19 @@
 
-h1{
-   text-decoration: underline wavy red ;
-}
+/*
+ text-shadow : H-shadow V-shadow Blur Color  ; 
+ box-shadow  : H-shadow V-shadow Blur Spread Color Inset ;
+*/
 
 p{
-   text-decoration-style: solid;
-  text-decoration-color: aqua;
-  text-decoration-line: underline;
+   text-shadow: 10px 10px 1px red,
+   5px 5px 1px greenyellow;
+                
 }
-a{
-   text-decoration: none;
+
+div{
+   background: red;
+   height: 100px;
+   width :100px;
+   box-shadow: 1px 1px 10px 5px green inset ;
+
 }
