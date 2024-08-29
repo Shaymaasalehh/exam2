@@ -1,5 +1,5 @@
 div{
    background-color :yellow;
    width:200px;
- word-wrap: break-word;
-}
+   white-space: pre-line;
+ }
