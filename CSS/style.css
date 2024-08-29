@@ -1,19 +1,5 @@
-
-/*
- text-shadow : H-shadow V-shadow Blur Color  ; 
- box-shadow  : H-shadow V-shadow Blur Spread Color Inset ;
-*/
-
-p{
-   text-shadow: 10px 10px 1px red,
-   5px 5px 1px greenyellow;
-                
-}
-
 div{
-   background: red;
-   height: 100px;
-   width :100px;
-   box-shadow: 1px 1px 10px 5px green inset ;
-
+   background-color :yellow;
+   width:200px;
+  white-space: normal;
 }
