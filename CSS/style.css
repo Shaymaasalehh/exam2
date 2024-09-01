@@ -1,9 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&display=swap');
+/* 
+normal text => 16px = 1em = 100%
+h1 => 32px = 2em = 200%
 
+ */
+span{
+  font-size: xx-large;
+}
 
-h1 {
-  font-family: "Lemonada", cursive;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
+p{
+  font-size: 1em;
+}
+h1{
+  font-size: 200%;
 }
