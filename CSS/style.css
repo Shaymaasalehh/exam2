@@ -11,12 +11,35 @@ font wight :
 800 => ultra bold 
 900 => black 
 */
-*{
-  font-family: sans-serif;
+
+
+div{
+  font-family: system-ui;
 }
-
-
-span{
-  font-weight:initial;
-
+#text1{
+  font-weight: 100;
+}
+#text2{
+  font-weight: 200;
+}
+#text3{
+  font-weight: 300;
+}
+#text4{
+  font-weight: normal;
+}
+#text5{
+  font-weight: 500;
+}
+#text6{
+  font-weight: 600;
+}
+#text7{
+  font-weight: bold;
+}
+#text8{
+  font-weight: 800;
+}
+#text9{
+  font-weight: 900;
 }
