@@ -1,14 +1,10 @@
 p{
-  font-style: italic;
-  font-variant: small-caps;
-  font-weight: bold;
-  font-size: 18px;
-  font-family: fantasy;
-  font : italic small-caps bold 18px fantasy ;
+ 
+  font :  italic small-caps bold 18px/20px normal ;
 
  
 }
 
 /* 
-font => font-style font-variant font-weight  font-size font-family
+font => font-style font-variant font-weight  font-size/line-height font-family
  */
