@@ -1,10 +1,8 @@
-p{
- 
-  font :  italic small-caps bold 18px/20px normal ;
+body{
 
- 
+  height: 200px;
+  background-color: #eceeee;
+  background-image: url('photos/Collage background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
 }
-
-/* 
-font => font-style font-variant font-weight  font-size/line-height font-family
- */
