@@ -1,8 +1,10 @@
-body{
-
-  height: 200px;
-  background-color: #eceeee;
-  background-image: url('photos/Collage background.jpg');
+div{
+  height : 600px; 
+  border : 4px  solid blue; 
+  background-image: url(photos/BeDau.jpg);
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-position: center bottom;
+  background-size: cover;
+
+
 }
